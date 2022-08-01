@@ -2,7 +2,7 @@ import React from "react";
 import Button from "./Button";
 import "../index.css";
 import "./HeroSection.css";
-import video from "../videos/video-2.mp4";
+import video from "../videos/video-1.mp4";
 
 const HeroSection = () => {
   return (
