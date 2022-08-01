@@ -3,6 +3,7 @@ import "../../index.css";
 import HeroSection from "../HeroSection";
 import Navbar from "../Navbar";
 import Cards from "../Cards";
+import Footer from "../Footer";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <Navbar />
       <HeroSection />
       <Cards />
+      <Footer />
     </>
   );
 };
